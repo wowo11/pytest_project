@@ -1,0 +1,66 @@
+{
+  "uid" : "7e03f28f7bc9a96c",
+  "name" : "E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register",
+  "fullName" : "testcase.E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register",
+  "historyId" : "c843e2a28cd44ae9bed2778b4214fcb6",
+  "time" : {
+    "start" : 1554609006813,
+    "stop" : 1554609006953,
+    "duration" : 140
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "注册登录再比较"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-Q8UU5SS"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "注册"
+  }, {
+    "name" : "thread",
+    "value" : "8492-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "7e03f28f7bc9a96c.json",
+  "parameterValues" : [ ]
+}

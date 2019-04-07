@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","testcase.E:\PYtest_model\testcase\sys.test_sys_changePwd.Test_changes.test_relogin","50",""
+"passed","testcase.E:\PYtest_model\testcase\sys.test_sys_changePwd.Test_changes.test_changepwd","140",""
+"passed","testcase.E:\PYtest_model\testcase\user.test_user_loadUserList.Test_load.test_register","140",""

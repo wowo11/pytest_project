@@ -1,0 +1,109 @@
+<ns0:test-suite xmlns:ns0="urn:model.allure.qatools.yandex.ru" start="1554627151819" stop="1554627153391">
+  <name>testcase</name>
+  <labels/>
+  <test-cases>
+    <test-case start="1554627151819" status="passed" stop="1554627152166">
+      <name>E:\PYtest_model\testcase\sys.test_sys_changePwd.Test_changes.test_changepwd</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码"/>
+        <label name="feature" value="修改密码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627152167" status="passed" stop="1554627152255">
+      <name>E:\PYtest_model\testcase\sys.test_sys_changePwd.Test_changes.test_relogin</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="修改密码后登录"/>
+        <label name="feature" value="修改密码"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627152257" status="passed" stop="1554627152353">
+      <name>E:\PYtest_model\testcase\sys.test_sys_login.Test_ll.test_login_failed01</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627152354" status="failed" stop="1554627152921">
+      <name>E:\PYtest_model\testcase\sys.test_sys_login.Test_ll.test_login_failed02</name>
+      <failure>
+        <message>AssertionError: assert 3010 == 200</message>
+        <stack-trace>self = &lt;testcase.sys.test_sys_login.Test_ll object at 0x000002CB50B0B2B0&gt;
+
+    def test_login_failed02(self):
+        path='/sys/login'
+        data={'userName':'','password':'123456'}
+        resp1 = http.post(path, data)
+&gt;       assert resp1['code']==200
+E       assert 3010 == 200
+
+testcase\sys\test_sys_login.py:17: AssertionError</stack-trace>
+      </failure>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627152924" status="passed" stop="1554627153030">
+      <name>E:\PYtest_model\testcase\sys.test_sys_login.Test_ll.test_login_failed03</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627153032" status="passed" stop="1554627153076">
+      <name>E:\PYtest_model\testcase\sys.test_sys_login.Test_ll.test_login_failed04</name>
+      <attachments/>
+      <labels>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+    <test-case start="1554627153077" status="passed" stop="1554627153391">
+      <name>E:\PYtest_model\testcase\user.test_user_loadUserList.Test_load.test_register</name>
+      <attachments/>
+      <labels>
+        <label name="story" value="注册"/>
+        <label name="feature" value="注册登录再比较"/>
+        <label name="severity" value="normal"/>
+        <label name="thread" value="2388-MainThread"/>
+        <label name="host" value="DESKTOP-Q8UU5SS"/>
+        <label name="framework" value="pytest"/>
+        <label name="language" value="cpython3"/>
+      </labels>
+      <steps/>
+    </test-case>
+  </test-cases>
+</ns0:test-suite>

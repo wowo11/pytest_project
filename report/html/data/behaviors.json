@@ -1,0 +1,61 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "修改密码",
+    "children" : [ {
+      "name" : "修改密码",
+      "children" : [ {
+        "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_changepwd",
+        "uid" : "48b800bf5f336e7f",
+        "parentUid" : "cc1d5f853f669bc78b21fd8c81beb656",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006623,
+          "stop" : 1554609006763,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "cc1d5f853f669bc78b21fd8c81beb656"
+    }, {
+      "name" : "修改密码后登录",
+      "children" : [ {
+        "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin",
+        "uid" : "68696e296b533a52",
+        "parentUid" : "e1a2de3d7677f082d238f99148b34042",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006763,
+          "stop" : 1554609006813,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "e1a2de3d7677f082d238f99148b34042"
+    } ],
+    "uid" : "8b2d20bf24c43bb3adff22768f6f2128"
+  }, {
+    "name" : "注册登录再比较",
+    "children" : [ {
+      "name" : "注册",
+      "children" : [ {
+        "name" : "E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register",
+        "uid" : "7e03f28f7bc9a96c",
+        "parentUid" : "4e0ba590c537730eb8130f54852e1255",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006813,
+          "stop" : 1554609006953,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "4e0ba590c537730eb8130f54852e1255"
+    } ],
+    "uid" : "8ddc9ee4ddbaeb1d3b5dd02afde933a0"
+  } ]
+}

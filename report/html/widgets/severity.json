@@ -1,0 +1,31 @@
+[ {
+  "uid" : "48b800bf5f336e7f",
+  "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_changepwd",
+  "time" : {
+    "start" : 1554609006623,
+    "stop" : 1554609006763,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7e03f28f7bc9a96c",
+  "name" : "E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register",
+  "time" : {
+    "start" : 1554609006813,
+    "stop" : 1554609006953,
+    "duration" : 140
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "68696e296b533a52",
+  "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin",
+  "time" : {
+    "start" : 1554609006763,
+    "stop" : 1554609006813,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

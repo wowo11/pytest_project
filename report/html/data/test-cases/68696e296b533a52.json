@@ -1,0 +1,66 @@
+{
+  "uid" : "68696e296b533a52",
+  "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin",
+  "fullName" : "testcase.E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin",
+  "historyId" : "3f0e5f1c1f3c38592238f599aee9b450",
+  "time" : {
+    "start" : 1554609006763,
+    "stop" : 1554609006813,
+    "duration" : 50
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "修改密码"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "DESKTOP-Q8UU5SS"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "story",
+    "value" : "修改密码后登录"
+  }, {
+    "name" : "thread",
+    "value" : "8492-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "testcase"
+  }, {
+    "name" : "testClass",
+    "value" : "testcase"
+  }, {
+    "name" : "testMethod",
+    "value" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin"
+  }, {
+    "name" : "package",
+    "value" : "testcase"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "68696e296b533a52.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,49 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "DESKTOP-Q8UU5SS",
+    "children" : [ {
+      "name" : "8492-MainThread",
+      "children" : [ {
+        "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_relogin",
+        "uid" : "68696e296b533a52",
+        "parentUid" : "d050f0b128b11b3af04c0bfc7dde63e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006763,
+          "stop" : 1554609006813,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\PYtest_model\\testcase\\sys.test_sys_changePwd.Test_changes.test_changepwd",
+        "uid" : "48b800bf5f336e7f",
+        "parentUid" : "d050f0b128b11b3af04c0bfc7dde63e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006623,
+          "stop" : 1554609006763,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "E:\\PYtest_model\\testcase\\user.test_user_loadUserList.Test_load.test_register",
+        "uid" : "7e03f28f7bc9a96c",
+        "parentUid" : "d050f0b128b11b3af04c0bfc7dde63e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1554609006813,
+          "stop" : 1554609006953,
+          "duration" : 140
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "d050f0b128b11b3af04c0bfc7dde63e2"
+    } ],
+    "uid" : "8e272ebdf643ff73a2403a8c4ebf94de"
+  } ]
+}

@@ -1,0 +1,8 @@
+[
+  "test_mytest.py::test_first",
+  "test_mytest.py::test_second",
+  "test_mytest.py::test_third",
+  "test_mytest.py::test_forth",
+  "test_mytest.py::test_fifth",
+  "test_mytest.py::test_sixth"
+]
